@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos de trabajo locales
+lista_canciones.txt
+enlaces_youtube.txt
+descargas_completadas.txt
+
+# Archivos MP3 descargados
+*.mp3
