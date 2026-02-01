@@ -19,6 +19,7 @@ Nota: Se requiere tener FFmpeg instalado en el sistema para la conversión a MP3
 
 • Opción A: No tengo los enlaces (Solo nombres)
 Escribe los nombres de las canciones o artistas en lista_canciones.txt.
+Nota: escribir en esta forma: artista - canción, uno por línea-
 
 Obtén los enlaces automáticamente:
 
@@ -36,7 +37,7 @@ Pega tus enlaces de YouTube en enlaces_youtube.txt (uno por línea).
 Ejecuta el script de descarga:
 
 [Bash]
-python bajar_mp3_final_1.py
+python script_bajar_mp3_final_solo_urls.py
 
 Nota: Se requiere tener FFmpeg instalado en el sistema para la conversión a MP3.
 
